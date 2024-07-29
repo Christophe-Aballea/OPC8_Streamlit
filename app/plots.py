@@ -130,7 +130,7 @@ def plot_local_feature_importance(preprocessor, loan_data, explainer, loan_id, f
             if feature in field:
                 exp = field[feature]['traduction']
                 if not isinstance(field[feature]['complement'], float):
-                    exp = exp + f' ({field[feature]['complement']})'
+                    exp = exp + f" ({field[feature]['complement']})"
                 explication.append(exp)
                 feat.append(feature)
         # explication = [field[feature]['traduction'] for feature in top30_features]
