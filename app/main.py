@@ -120,7 +120,7 @@ explication = []
 for feature in top30_features:
     exp = field[feature]['traduction']
     if not isinstance(field[feature]['complement'], float):
-        exp = exp + f' ({field[feature]['complement']})'
+        exp = exp + f" ({field[feature]['complement']})"
     explication.append(exp)
 explication_df = pd.DataFrame({'Caractéristique': top30_features, 'Explication': explication})
 
