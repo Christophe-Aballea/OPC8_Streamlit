@@ -5,7 +5,6 @@ import math
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-from streamviz import gauge
 import plotly.graph_objects as go
 import shap
 
