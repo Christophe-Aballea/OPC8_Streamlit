@@ -1,0 +1,7 @@
+notebooks/
+debug.log
+.ipynb_checkpoints
+__pycache__
+data/raw/application_train.csv
+data/raw/application_test.csv
+data/raw/HomeCredit_columns_description.csv

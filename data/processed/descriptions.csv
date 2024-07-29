@@ -1,0 +1,53 @@
+﻿CHAMP;TRADUCTION;COMPLEMENT
+SK_ID_CURR;Numéro demande;
+NAME_CONTRACT_TYPE;Type crédit;cash - revolving
+CODE_GENDER;Sexe demandeur;F : femme - M : homme
+AMT_INCOME_TOTAL;Revenus demandeur;
+AMT_CREDIT;Montant crédit;
+AMT_ANNUITY;Annuité;
+AMT_GOODS_PRICE;Montant biens financés;
+NAME_INCOME_TYPE;Type revenus demandeur;businessman - working…
+NAME_EDUCATION_TYPE;Niveau d'éducation demandeur;
+NAME_FAMILY_STATUS;Statut marital demandeur;
+REGION_POPULATION_RELATIVE;Densité population demandeur;
+YEARS_BIRTH;Age demandeur;
+DAYS_ID_PUBLISH;Age dépôt pièce identité demandeur;
+OWN_CAR_AGE;Age véhicule demandeur;
+FLAG_WORK_PHONE;Fourniture téléphone domicile;0 : non - 1 : oui
+OCCUPATION_TYPE;Type profession demandeur;
+REGION_RATING_CLIENT_W_CITY;Score interne région habitation demandeur;entre 1 et 3
+HOUR_APPR_PROCESS_START;Heure approximative demande;
+EXT_SOURCE_1;Score source externe 1;entre 0 et 1
+EXT_SOURCE_2;Score source externe 2;entre 0 et 1
+EXT_SOURCE_3;Score source externe 3;entre 0 et 1
+DEF_30_CNT_SOCIAL_CIRCLE;Retards de paiement de plus de 30 jours dans l'entourage du demandeur;nombre
+DEF_60_CNT_SOCIAL_CIRCLE;Retards de paiement de plus de 30 jours dans l'entourage du demandeur;nombre
+YEARS_LAST_PHONE_CHANGE;Age changement téléphone demandeur;
+FLAG_DOCUMENT_2;Fourniture document 2;0 : non - 1 : oui
+FLAG_DOCUMENT_3;Fourniture document 3;0 : non - 1 : oui
+FLAG_DOCUMENT_4;Fourniture document 4;0 : non - 1 : oui
+FLAG_DOCUMENT_5;Fourniture document 5;0 : non - 1 : oui
+FLAG_DOCUMENT_6;Fourniture document 6;0 : non - 1 : oui
+FLAG_DOCUMENT_7;Fourniture document 7;0 : non - 1 : oui
+FLAG_DOCUMENT_8;Fourniture document 8;0 : non - 1 : oui
+FLAG_DOCUMENT_9;Fourniture document 9;0 : non - 1 : oui
+FLAG_DOCUMENT_10;Fourniture document 10;0 : non - 1 : oui
+FLAG_DOCUMENT_11;Fourniture document 11;0 : non - 1 : oui
+FLAG_DOCUMENT_12;Fourniture document 12;0 : non - 1 : oui
+FLAG_DOCUMENT_13;Fourniture document 13;0 : non - 1 : oui
+FLAG_DOCUMENT_14;Fourniture document 14;0 : non - 1 : oui
+FLAG_DOCUMENT_15;Fourniture document 15;0 : non - 1 : oui
+FLAG_DOCUMENT_16;Fourniture document 16;0 : non - 1 : oui
+FLAG_DOCUMENT_17;Fourniture document 17;0 : non - 1 : oui
+FLAG_DOCUMENT_18;Fourniture document 18;0 : non - 1 : oui
+FLAG_DOCUMENT_19;Fourniture document 19;0 : non - 1 : oui
+FLAG_DOCUMENT_20;Fourniture document 20;0 : non - 1 : oui
+FLAG_DOCUMENT_21;Fourniture document 21;0 : non - 1 : oui
+AMT_REQ_CREDIT_BUREAU_QRT;Enquêtes Credit Bureau sur 1 trimestre;nombre
+AMT_REQ_CREDIT_BUREAU_YEAR;Enquêtes Credit Bureau sur 1 an;nombre
+CREDIT_TERM;Ratio annuel remboursement;AMT_ANNUITY / AMT_CREDIT
+YEARS_EMPLOYED;Ancienneté emploi actuel demandeur;
+DAYS_EMPLOYED_PERCENT;Ratio activité professionnelle;Ancienneté / Age
+ANNUITY_INCOME_PERCENT;Ratio annuités / revenus;AMT_ANNUITY / AMT_INCOME_TOTAL
+CREDIT_INCOME_PERCENT;Ratio montant crédit / revenus;AMT_CREDIT / AMT_INCOME_TOTAL
+ORGANIZATION_TYPE;Type d'organisation dans laquelle travaille le demandeur;
